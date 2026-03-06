@@ -126,21 +126,19 @@ This repository serves as the **public documentation and showcase** for the proj
 
 ## Preview
 
-## EduKora Interface Preview
-
 <p align="center">
-<img src="./public/images/edukora-landing.png" width="48%">
-<img src="./public/images/edukora-preview1.jpeg" width="48%">
+<img src="./public/images/edukora-landing.png" width="80%">
 </p>
 
 <p align="center">
-<img src="./public/images/edukora-preview2.jpeg" width="48%">
-<img src="./public/images/edukora-preview3.jpeg" width="48%">
+<img src="./public/images/edukora-preview1.jpeg" width="30%">
+<img src="./public/images/edukora-preview2.jpeg" width="30%">
+<img src="./public/images/edukora-preview3.jpeg" width="30%">
 </p>
 
 <p align="center">
-<img src="./public/images/edukora-preview4.jpeg" width="48%">
-<img src="./public/images/edukora-preview5.jpeg" width="48%">
+<img src="./public/images/edukora-preview4.jpeg" width="30%">
+<img src="./public/images/edukora-preview5.jpeg" width="30%">
 </p>
 
 
