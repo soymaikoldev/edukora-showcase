@@ -126,12 +126,12 @@ This repository serves as the **public documentation and showcase** for the proj
 
 ## Preview
 
-![EduKora](./public/images/edukora-landing.png)
-![EduKora](./public/images/edukora-preview1.jpeg)
-![EduKora](./public/images/edukora-preview2.jpeg)
-![EduKora](./public/images/edukora-preview3.jpeg)
-![EduKora](./public/images/edukora-preview4.jpeg)
-![EduKora](./public/images/edukora-preview5.jpeg)
+<img src="./public/images/edukora-landing.png" width="600">
+<img src="./public/images/edukora-preview1.jpeg" width="600">
+<img src="./public/images/edukora-preview2.jpeg" width="600">
+<img src="./public/images/edukora-preview3.jpeg" width="600">
+<img src="./public/images/edukora-preview4.jpeg" width="600">
+<img src="./public/images/edukora-preview5.jpeg" width="600">
 
 
 ## Website
