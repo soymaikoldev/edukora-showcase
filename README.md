@@ -164,3 +164,6 @@ This repository exists to:
 - Share project information publicly
 - Support hackathon submissions
 - Provide transparency around development direction
+
+- > Note: The core application repository remains private during early development.
+> This public repository is intended for documentation, previews, and hackathon submissions.
